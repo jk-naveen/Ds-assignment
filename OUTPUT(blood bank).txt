@@ -1,0 +1,23 @@
+        
+
+						OUTPUT
+
+
+
+	 O+  O-  AB  A  B
+branch1   1   1   1  2  3
+branch2   1   1   1  2  1
+branch3   1   1   1  1  1
+from which branch you require blood
+1
+ which blood type
+B
+this are the availabe donors
+1    KALPAJEET
+2       SOURAB
+3        TULSI
+Name: B, dtype: object
+select the donor
+TULSI
+contact number is:
+4541245000
